@@ -1,4 +1,4 @@
-# Weather Dashboard
+# Weather Dashboard fuck you
 
 This is a simple web application that allows users to search for weather information for a given city. It displays both the current weather and a 5-day weather forecast.
 
